@@ -14,7 +14,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: var(--color-primario);
+    background-color: var(--color-secundario);
     color: var(--color-terciario); /* Ajustado el texto principal a un tono más oscuro */
 }
 
